@@ -1,0 +1,7 @@
+product_id,product_name,avg_profit,unit_cost,price
+CF01,Ca Phe Den,37000.0,8000.0,45000.0
+CF04,Tra Dao,36000.0,9000.0,45000.0
+CF06,Matcha Latte,26000.0,9000.0,35000.0
+CF02,Ca Phe Sua,20000.0,15000.0,35000.0
+CF05,Sinh To Xoai,-14970.0,15000.0,30.0
+CF03,Bac  Xiu,,,35000.0
